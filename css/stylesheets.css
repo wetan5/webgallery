@@ -1,12 +1,12 @@
 
 body {
-  background-color: #c4dce1; /* change background color */
+  background-color: #fcba68; /* change background color */
   text-align: center;
-  color: #000;  /* change font color */
+  color: #fff9f6;  /* change font color */
   line-height: 36px;
   -webkit-font-smoothing: antialiased;
   text-rendering: optimizeLegibility;
-  font-family: 'Helvetica Neue', Helvetica, sans-serif;
+  font-family: 'Brush Script Std', Helvetica, sans-serif;
 }
 
 body,html {
@@ -19,17 +19,17 @@ a, a:active, a:visited {
 
 h1, h2, h3, h4 {
   font-weight: 300;
-  letter-spacing: 2px; /* change */
+  letter-spacing: 10px; /* change */
 }
 
 h1 {
-  font-size: 36px; /* change */
+  font-size: 62px; /* change */
   line-height: 36px;
   margin: 1.6875rem 0;
 }
 
 #container {
-  background-image: url("../img/cement.jpg"); /* change */
+  background-image: url("../img/background.jpg"); /* change */
   min-height: 100%;
   max-width: 960px;
   margin: 0 auto;
